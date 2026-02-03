@@ -21,19 +21,13 @@ Sovereign AI DePIN Grid. A `no_std` Rust kernel using Thermodynamic Proofs (Entr
 *   **Philosophical Belief:** I subscribe to **Mohism**, specifically "Universal Love" and "Non-Aggression." This is the core driving force behind my design of Mnemosyne—breaking computational monopolies through technology to realize fair resource allocation and defensive security.
 *   **The Sprint Phase:** In the past month, I poured all my energy into the theoretical construction of Mnemosyne. From ideation and physical derivation to identifying 14 core theorems and attempting to write verifiable code, everything was completed by me alone.
 
-#### 4. Critical Status & Honesty
-*   **Financial Cliff:** My current total assets remain at only **2,000 NTD (approx. 61.5 USD)**. I am on the edge of survival, imminent inability to afford internet connectivity and basic food.
-*   **Development Reality:**
-    *   **Mathematical Model:** Established and rigorous (containing 14 theorems and physical derivations).
-    *   **Code:** Still aligning with the mathematical model; not yet perfect.
-    *   **Reason:** I do not mask its incompleteness, as this is precisely why the Grant is needed. It is not that I cannot write perfect code, but that I no longer have the **time and resources** to continue polishing it in a zero-income state. I must submit now.
+#### 4. Current Development Status & Funding Necessity:
 
-#### 5. Purpose of Grant
-I am not applying for this fund to seek long-term sustenance, but as a **"Transitional Lifeline (Bridge Funding)."** The specific uses are as follows:
-1.  **Survival Maintenance:** Paying for the most basic internet and food costs, allowing me to survive to complete and launch the Mnemosyne system.
-2.  **Verification Equipment:** Purchasing minimal hardware resources and cloud services to complete system experimentation and verification.
-3.  **Academic Launchpad:** Applying for Computer Science (CS) PhD programs in the EU Schengen Area (specifically CEE countries). The funds will cover visa application fees, airfare, and **rent/living expenses for the first three months after landing**.
-    *   *Note: I possess sufficient technical capability; once settled, I will support myself through technical work and do not require the funder to cover all expenses during my PhD studies.*
+While the VARTA System is mathematically rigorous (proven via 14 theorems), the current codebase is in a Pre-Alpha Prototype stage.
+
+We are applying for this grant to bridge the critical gap between "Theoretical Validation" and "Production-Grade Implementation."
+
+The requested funding acts as a Full-Time Researcher Stipend, allowing the Lead Architect to dedicate 100% of his operational capacity to this project, transitioning from self-funded research to a professional delivery schedule. Without this grant, the transition from mathematical specs to Zcash-compatible Rust code cannot be guaranteed within the proposed timeline.
 
 #### 6. Conclusion
 You do not have to trust me as a person, but please trust the **Math** and the **Physics**.
