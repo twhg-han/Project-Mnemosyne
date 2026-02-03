@@ -29,7 +29,7 @@ We are applying for this grant to bridge the critical gap between "Theoretical V
 
 The requested funding acts as a Full-Time Researcher Stipend, allowing the Lead Architect to dedicate 100% of his operational capacity to this project, transitioning from self-funded research to a professional delivery schedule. Without this grant, the transition from mathematical specs to Zcash-compatible Rust code cannot be guaranteed within the proposed timeline.
 
-#### 6. Conclusion
+#### 5. Conclusion
 You do not have to trust me as a person, but please trust the **Math** and the **Physics**.
 Please read my mathematical derivations and scrutinize my physical design.
 Give me this funding, let me survive, and I will use this system to thoroughly change the world.
